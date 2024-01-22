@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Books-App/static/css/main.cbb520ec.css",
+    "main.js": "/Books-App/static/js/main.2cf55069.js",
+    "static/js/787.63cb19f1.chunk.js": "/Books-App/static/js/787.63cb19f1.chunk.js",
+    "static/media/bg-1.jpg": "/Books-App/static/media/bg-1.ab39ae27db0b278b64dc.jpg",
+    "index.html": "/Books-App/index.html",
+    "main.cbb520ec.css.map": "/Books-App/static/css/main.cbb520ec.css.map",
+    "main.2cf55069.js.map": "/Books-App/static/js/main.2cf55069.js.map",
+    "787.63cb19f1.chunk.js.map": "/Books-App/static/js/787.63cb19f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbb520ec.css",
+    "static/js/main.2cf55069.js"
+  ]
+}
